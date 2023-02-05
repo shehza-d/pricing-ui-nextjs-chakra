@@ -1,4 +1,6 @@
+import './globals.css'
 import ChakraWrapper from "../components/chakra";
+// import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function RootLayout({
   children,
