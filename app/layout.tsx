@@ -1,4 +1,4 @@
-import './globals.css'
+import "./globals.css";
 import ChakraWrapper from "../components/chakra";
 // import { Html, Head, Main, NextScript } from 'next/document'
 
